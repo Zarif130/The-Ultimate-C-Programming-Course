@@ -15,7 +15,7 @@ int main(){
         printf("This character inside if is also executed!\n");
     }
     if(0){
-        printf("I am zero - I am not executed\n");
+        printf("I am zero - I am not executed\n");//Consider as false.
     }
     return 0;
 }

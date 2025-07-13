@@ -50,7 +50,7 @@ int main()
           
 | `long`          | When a normal `int` isn't big enough (big populations, IDs, timestamps)   
   
-| `long long`     | For **very large** numbers — like scientific data, finance, etc.     
+| `long long`     | For **very large** numbers — like scientific data, finance, etc.(−9.2 × 10¹⁸ to +9.2 × 10¹⁸)     
        
 | `unsigned int`  | When you only need **positive numbers**, like total items, size, etc.  
      

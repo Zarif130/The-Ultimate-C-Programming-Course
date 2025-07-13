@@ -30,5 +30,7 @@ int main(){
    else{
     grade = 'F';
    }
+    printf("Grade=%c\n",grade); 
+   
     return 0;
 }   
